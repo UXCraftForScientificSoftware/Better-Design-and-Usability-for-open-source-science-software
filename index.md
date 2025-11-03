@@ -7,9 +7,8 @@ User Experience Research (UXR) is an essential part of improving how software wo
 
 There might be new terminology or new ways that words and terms are used in these lessons. Please refer to the [Glossary]() which contains words and their meaning in the context of software design.
 
-:::::: objectives
 
-## Objectives
+::::::::::::::::::::::::::::::::::::: objectives
 
 - Identify high priority usability issues for your software project and its users
 - Recruit users for a user experience research study
@@ -25,8 +24,7 @@ There might be new terminology or new ways that words and terms are used in thes
 - Conduct a quick usability assessment 
 - Identify design and development resources to help guide changes
 
-
-::::::
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
