@@ -1,8 +1,8 @@
 
 ---
 title: "Choosing a research method for design"
-teaching: 20 # teaching time in minutes
-exercises: 10 # exercise time in minutes
+teaching: 180 # teaching time in minutes
+exercises: 60 # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions
@@ -198,7 +198,7 @@ The testimonial might appear to describe a more extreme example. Plenty of scien
 
 ::::::::::::::::::::::::::::::::::::: discussion
 
-When time is up, find someone who shares a user, scientific topic or concern with yoursefl to discuss your responses to the challenge/exercise.
+When time is up, find someone who shares a user, scientific topic or concern with yourself to discuss your responses to the challenge/exercise.
 
 :::::::::::::::::::::::::::::::::
 
@@ -248,8 +248,77 @@ You can find more examples of methodologies in the external resources [https://w
 
 Including books on the subject like [Universal Methods of Design](https://www.google.com/url?q=https://books.google.co.uk/books/about/Universal_Methods_of_Design.html?id%3DuZ8uzWAcdxEC%26redir_esc%3Dy&sa=D&source=docs&ust=1762166454441782&usg=AOvVaw2yKxLJ6D-v63sZAGB95H3p)
 
+:::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::: testimonial
+
+## Zarah speaks to another scientist in their lab
+
+In the example in the introduction, Zarah wanted to make sure she could speak to Ester in Ester’s own lab. Zarah not only wanted to ask Ester questions and see how Ester used her tools, technology and software, but also what Ester's own lab (context) looked like and functioned like. Towards the end of the user experience research Zarah was able to ask some questions about both Ester's computer setup, common tasks and practices but also why her lab was set up in the way that it was and how many other scientists shared that space with her. With this information Zarah could gather contextual data like ‘Ester works with 3 other scientists that also use my open source science software’ and ‘The lab has an area that has ocean water tanks that the computers are separate from’. These are pieces of information that can help Zarah make hypotheses and assumptions about how to optimize or better her open source science software for Zarah and her team.
 
 :::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::: challenge
+
+Identify a user experience research method that can be used in the example open source scientific software based on their goals and constraints. These open source scientific software are based on real projects but named differently.
+
+| **Open source scientific software name** 	| **Brief description**                                                                                                  	| **A goal and user/audience type**                                           	| **Method that could be used and why** 	|
+|------------------------------------------	|------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------	|---------------------------------------	|
+| Plantimg                                 	| An OSS that helps plant scientists detect plant traits using images. Python based. Command Line Interface (CLI) based. 	| Users that are learning how to use the OSS for the first time.              	| _[Add your answer here and why]_      	|
+| ArrayOSS                                 	| Scalable storage of tensor data for scientific computing. Python library.                                              	| A user that is unsure they have the correct configuration of dependencies.  	| _[Add your answer here and why]_      	|
+| Cellexplorer                             	| Visually explore data to understand human tissue and cells. No-code UI.                                                	| A user that has mostly used code-tools and is looking to try no-code tools. 	| _[Add your answer here and why]_      	|
+
+
+:::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::: discussion
+
+Connecting the methodology explorations to ethical considerations. Do you see any ethical concerns in the proposed user experience research with these open source science software projects or the users indicated?
+
+:::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::: challenge
+
+Build out two methods that you think best fits two different open source science softwares, audience/user focus, constraints and goals.
+
+| **Open source scientific software name** 	| **Brief description** 	| **A goal and user/audience type** 	| **Method that could be used and why** 	|
+|------------------------------------------	|-----------------------	|-----------------------------------	|---------------------------------------	|
+|                                          	|                       	|                                   	|                                       	|
+|                                          	|                       	|                                   	|                                       	|
+
+
+:::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::: discussion
+
+Discuss between one-three strengths and limitations for each of the methods in the context of your open source science software.
+
+A strength might be that you have access to a certain type of user you want to visit in their context so doing a contextual inquiry would be accessible.
+
+A limitation might be that a usability test would require a user to have all the required dependencies and also relevant research data on a device that the user does not regularly use, so requires your users to bring certain assets with them.
+
+
+:::::::::::::::::::::::::::::::::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 :::::::::::::::::::::::: keypoints
 
@@ -273,8 +342,8 @@ Including books on the subject like [Universal Methods of Design](https://www.go
 
 ### What user experience research methods are available to you?
 
-- 
-
-
+- There are a long list of methods available to those that conduct user experience research.
+- Using details from your open source science software definition, audience definitions and what goals you have to learn about can help you narrow down what methodology you want to use.
+- If In doubt, default back to a method you feel confident about and comfortable with. Getting the method process 100% right isn’t as important and practicing and gaining experience doing user experience research.
 
 :::::::::::::::::::::::::::::::::
