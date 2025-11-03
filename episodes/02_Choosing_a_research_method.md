@@ -37,4 +37,32 @@ In the [introductions example](https://uxcraftforscientificsoftware.github.io/Be
 
 Zarah is interested in solving current documented problems for herself and other users and also exploring what other potential problems users that are not like Zarah could come across now or in the future. Zarah is motivated by both the now and improving for the future.
 
+## Questions to ask yourself
 
+- What is your goal? 
+- What do you hope to learn? 
+- Who do you want to learn from and why?
+
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+In this exercise you’re going to spend time thinking about your project, whatever stage it’s in (idea mode or a fully working open source science project) and define and describe it. This is a series of simple and clear statements that communicate the intended use of a product or service.
+
+**Zarah’s example**
+
+| **Define your project and who it is primarily for**                                                                                                                              	| For scientists and researchers to measure plant traits (aka phenotypes) from images. It is command/script based and works within some web applications. It creates documents that contain code, outputs and documentation.          	|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Describe what your tool/software does in an ideal scenario**                                                                                                                   	| Ideally a scientist who has images of plants wants to use the tool to batch-process, quickly process or see what plant traits the tool will offer from an image. Ideally they use the commands/prompts in a development environment 	|
+| **State one user experience research goal? (e.g. reduce user errors during data input)**                                                                                         	| To ensure that images of plants submerged in water are able to be processed accurately and in a usable way.                                                                                                                         	|
+| **List any critical constraints or limitations of your open source scientific software (e.g. It is written in a particular coding language, it cannot do complex computations)** 	| My open source science project is command based and can be used in certain web applications. There is no GUI. It is written in Python. It has certain limitations on what outputs are possible/available.                           	|
+
+
+**Add your own**
+
+| **Define your project and who it is primarily for**                                                                                                                              	|   	|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---	|
+| **Describe what your tool/software does in an ideal scenario**                                                                                                                   	|   	|
+| **State one user experience research goal? (e.g. reduce user errors during data input)**                                                                                         	|   	|
+| **List any critical constraints or limitations of your open source scientific software (e.g. It is written in a particular coding language, it cannot do complex computations)** 	|   	|
+
+:::::::::::::::::::::::::::::::::::::::::::::::
