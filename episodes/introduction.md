@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Introducing User Experience Research and Design"
 teaching: 20 # teaching time in minutes
 exercises: 10 # exercise time in minutes
 ---
