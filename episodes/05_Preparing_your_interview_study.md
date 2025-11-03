@@ -1,6 +1,6 @@
 
 ---
-title: "Preparing your rapid usability test"
+title: "Preparing your interview study"
 teaching: 60 # teaching time in minutes
 exercises: 20 # exercise time in minutes
 ---
@@ -9,98 +9,132 @@ exercises: 20 # exercise time in minutes
 
 ## Questions
 
-  - What are usability tests and when are they used? 
-  - When should a rapid usability test be used?
-  - What tasks or prompts should participants complete during the usability test?
-  - How do you define success criteria for each usability test task?
-  - What should be included in a usability test script?
+  - What are interview studies and when are they used? 
+  - What materials do I need to prepare before conducting an interview?
+  - What should be included in an interview protocol?
+  - What are the risks I should consider before conducting an interview study and how do I proactively mitigate them?
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
 ## Objectives
 
-  - Understand the benefits of usability testing
-  - Identify a set of tasks for moderated, rapid usability testing 
-  - Define success criteria for each usability test task
-  - Develop a usability test script
-  - Prepare usability test environment
+  - Understand when to use an interview study
+  - Develop and refine an interview protocol based on the target audience
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## What is usability testing?
+## What are interview studies?
 
 [Author note: This episode is incomplete and needs some more information and writing to complete]
 
-Usability testing (also commonly known as user testing or usability-lab studies) is a UXR methodology that primarily focuses on observing how users directly interact with a specific software, technology, or tool. In a usability testing session, a researcher will ask a participant to perform a series of tasks or respond to a set of prepared prompts related to the tool being tested. The researcher will observe their behavior and ask follow-up questions when necessary. Most often, usability testing provides researchers with opportunities to work with real users and enables them to evaluate if the user will be able to use the tool to accomplish what they set out to do. Usability testing can help researchers identify any problems in the tool’s design, learn about the target user’s motivations and preferences, and determine areas for improvement.
+During an interview study, researchers meet 1-on-1 with users to conduct “user interviews”, structured or semi-structured conversations where the researcher can ask questions about a topic and listen to the user’s response. Outside of the UXR world, user interviews may be called “stakeholder interviews”, “semi-structured interviews”, “qualitative interviews”, etc, depending on the researcher’s background or field of study.
+
+User interviews are a qualitative UXR method. They are best used when you
+- Have more open-ended questions about your tool,
+- Are still ideating (in discovery mode) or iterating on your design
+- Are looking for deeper insight into your users’ thoughts, feelings, experiences, and challenges.
+
+In particular, user interviews are useful when you still have probing or complex questions that can be addressed via direct communication with your target user audience.
+
+As per the nngroup, you can see the differences between user interviews and usability tests here: [https://www.nngroup.com/articles/user-interviews/](https://www.nngroup.com/articles/user-interviews/)
+
+The main points are that user interviews:
+
+- Generate new knowledge about your users, their experiences, needs, and pain points
+- Are attitudinal aka we collect participants’ reported behaviors, thoughts, and feelings
+- Empathize the stage of the [design-thinking model](https://www.nngroup.com/articles/design-thinking/) (or in discovery)
+- Participants don’t review or try a design UI/GUI or any visual input
+- Has more  natural interaction like regular eye contact, facilitators are warmer and approachable
+
+
+## How to Develop the Interview Protocol
+
+**What materials do I need to prepare before conducting an interview?**
+
+An interview protocol is a guide the researcher or research team follows as they conduct each interview. Interview protocols are prepared ahead of time and often include a detailed interview script, research goals, a list of questions, and other information that can help the interviewer better facilitate the conversation. Before you begin developing the interview protocol, you should have an idea of what you want to learn and who your target user audience is.
+ 
+Talking to users can feel intimidating! The process of developing an interview protocol will help you keep track of your questions, better understand what data you would like to collect, and gain confidence as you mentally prepare to conduct the interview. 
+ 
+**What to consider as you draft the interview protocol:**
+
+- What language should you draft ahead of time to help you explain the tool or interview process to the participant? 
+- What questions do you have for your target users? What potential follow-up questions can you anticipate? 
+- What notes will help you facilitate and keep track of the conversation?
+- What outputs are you interested in producing from the information collected during the interviews?
+
 
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-As you begin planning your usability test, you should consider and answer the following questions to help identify what tasks you would like participants to complete and what resources you need to get started:
+Follow these steps to help you define and draft your interview protocol.
 
-| **Question**                                                                                                                                        	| **Why?**               	|
-|-----------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------	|
-| Qualitative or quantitative testing?                                                                                                                	| _Add your answer here_ 	|
-| In-person or online/remote testing? If in person, what location can be used as the testing environment?                                             	| _Add your answer here_ 	|
-| How many testing sessions will you run and how long will each session be?                                                                           	| _Add your answer here_ 	|
-| Who are the testers?                                                                                                                                	| _Add your answer here_ 	|
-| Who will be running the testing? Will the test sessions be moderated or unmoderated? Will you need support (e.g. an extra person) for facilitation? 	| _Add your answer here_ 	|
-| What is your budget vs. what is the cost of testing?                                                                                                	| _Add your answer here_ 	|
-| What bias should be considered and how can you reduce unconscious bias?                                                                             	| _Add your answer here_ 	|
+- Step 1: Write down your research questions
+- Step 2: Develop interview questions based on your research questions
+- Step 3: Refine your interview questions 
+
+Interview questions should be open-ended and enable the user to consider what order you would like to ask your questions. Start with simpler, or “easier” questions, to build rapport with your user.
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Rapid usability testing
+::::::::::::::::::::::::::::::::::::: callout
 
-You don’t need a lot of resources to do user testing. We’ll look at rapid usability testing in this episode as a method for researchers who want to get started quickly and cheaply, are working solo, or may need to conduct first-round tests to gain buy-in for further testing. Rapid usability testing is often conducted remotely, with a small pool of users, and can involve an online testing tool.
+### Resource: Outline for an Interview Protocol:
 
-**What you need to get started**
-- Something to test (e.g. your current software, tool, or a sketch)
-- Facilitator/s (you and maybe a note taker)
-- Target audience (you should know what user group you hope to test with)
-- A tool for planning and taking notes (eg. EtherPad/Riseup Pad Google Docs, or Notion)
-- A virtual conferencing tool or online testing tool to conduct tests (eg. Zoom, Jitsi, Google Meet)
-- Time to conduct test and evaluate feedback
+- Introduction
+- Warmup
+- Questions
+- Follow-up Questions
+- Conclusion
 
+Interview protocols can be flexible and adaptable to the particular user you are speaking to. You may not need to ask all of the questions if you feel like the user has already provided a comprehensive answer while talking about a different question. You could skip around as you gain confidence and if the flow of the conversation has led to a particular question.
 
-## Identify tasks for a rapid usability test
-
-[Add intro paragraph]
-
-Don’t try to test every part of your software - that’s overwhelming for you and the participant. Instead, choose a small task that you’re curious about (such as a new feature) or that isn’t working so well (perhaps one known pain-point or bug).
-
-Examples:
-- Can the user add a new entry?
-- Can the user sign up?
-- Can the user send a message?
-- Can the user upload their first document?
-- Can the user fill out their profile?
-- Does the user understand the error/prompt/recovery message?
-
-In a rapid usability test, you can 
-
-- See what the user is used to doing without even thinking
-- Observe and clarify what sorts of cues the user is looking out for
-- Ask what the user views as the ‘correct’ process to complete a task
-
-https://www.nngroup.com/courses/usability-testing/
-
-- Practice writing tasks that get you unbiased answers to your research questions
-- Review different types of tasks and discover which questions they answer
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-Back to Zarah and Ester. Zarah has discovered that Ester has had to ‘hack’ the open source scientific software in order to enter specific environmental data for the ocean-based plants Ester is researching. Zarah would like to understand if offering flexible data entry options for people like Ester would be the best feature to improve the software’s usability or if the bugs that Ester identified require other considerations. 
+### What do you need to include in your interview protocol
 
-**What** 
-Zarah’s tasks:
-[needs completing]
+**Draft 3 interview questions**
+
+[Content needs adding/editing]
+
+https://superbloom.design/learning/blog/user-testing-cheatsheet/ 
+
+:::::::::::::::::::::::::::::::::
+
+## Additional Content to Consider
+
+What are the risks I should consider before conducting an interview study and how do I proactively mitigate them?
+
+
+### Privacy Policy
+
+[Content needs adding/editing]
+
+### Media Consent Form
+
+[Content needs adding/editing]
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+[Content needs adding/editing]
+
+| Statement                                                                                                     	| What do you need to prepare?                                             	|
+|---------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------	|
+| You will be asking participants about personally identifiable information such as their birthday or location. 	| #Privacy Policy #Media Consent Form #All of the above #None of the above 	|
+| You will be anonymizing any personally identifiable data collected during the user study.                     	| #Privacy Policy #Media Consent Form #All of the above #None of the above 	|
+| You would like to record audio but not video during the interviews.                                           	| #Privacy Policy #Media Consent Form #All of the above #None of the above 	|
+| ADD                                                                                                           	|                                                                          	|
+| ADD                                                                                                           	|                                                                          	|
+
 
 
 :::::::::::::::::::::::::::::::::
