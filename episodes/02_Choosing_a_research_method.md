@@ -66,3 +66,14 @@ In this exercise you’re going to spend time thinking about your project, whate
 | **List any critical constraints or limitations of your open source scientific software (e.g. It is written in a particular coding language, it cannot do complex computations)** 	|   	|
 
 :::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::: discussion 
+
+## Discussion
+
+Do you notice any key words or themes in your answers?
+
+Are there any open questions related to the **‘Questions to ask yourself’** that were difficult to answer?
+
+:::::::::::::::::::::::::::::::::

@@ -79,6 +79,8 @@ What do you think Zarah’s next steps could be with her user experience researc
 
 Discuss with a fellow learner what you’d be looking to do next if you were in the same or a similar situation.
 
+:::::::::::::::::::::::::::::::::
+
 
 :::::::::::::::::::::::: practice 
 
@@ -92,9 +94,9 @@ Which is the most prominent and do you think it’s a technical bug only or also
 :::::::::::::::::::::::::::::::::
 
 
-## Key points
-
 :::::::::::::::::::::::: keypoints
+
+## Key points
 
 - User Experience Research can have many associated terms and words with it depending on academic research or practice and the popularised terms.
 - User Experience Research is largely about finding out about how users interact with software, tools and technologies and how that can inform changes and enhancements to software, tools and technologies.
@@ -103,6 +105,7 @@ Which is the most prominent and do you think it’s a technical bug only or also
 
 
 :::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## References
