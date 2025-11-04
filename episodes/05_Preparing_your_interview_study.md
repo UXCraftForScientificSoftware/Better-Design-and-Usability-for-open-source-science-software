@@ -31,12 +31,12 @@ exercises: 20 # exercise time in minutes
 
 [Author note: This episode is incomplete and needs some more information and writing to complete]
 
-During an interview study, researchers meet 1-on-1 with users to conduct “user interviews”, structured or semi-structured conversations where the researcher can ask questions about a topic and listen to the user’s response. Outside of the UXR world, user interviews may be called “stakeholder interviews”, “semi-structured interviews”, “qualitative interviews”, etc, depending on the researcher’s background or field of study.
+During an interview study, researchers meet 1-on-1 with users to conduct 'user interviews', structured or semi-structured conversations where the researcher can ask questions about a topic and listen to the user's response. Outside of the UXR world, user interviews may be called 'stakeholder interviews', 'semi-structured interviews', 'qualitative interviews', etc, depending on the researcher's background or field of study.
 
 User interviews are a qualitative UXR method. They are best used when you
 - Have more open-ended questions about your tool,
 - Are still ideating (in discovery mode) or iterating on your design
-- Are looking for deeper insight into your users’ thoughts, feelings, experiences, and challenges.
+- Are looking for deeper insight into your users' thoughts, feelings, experiences, and challenges.
 
 In particular, user interviews are useful when you still have probing or complex questions that can be addressed via direct communication with your target user audience.
 
@@ -45,9 +45,9 @@ As per the nngroup, you can see the differences between user interviews and usab
 The main points are that user interviews:
 
 - Generate new knowledge about your users, their experiences, needs, and pain points
-- Are attitudinal aka we collect participants’ reported behaviors, thoughts, and feelings
+- Are attitudinal aka we collect participants' reported behaviors, thoughts, and feelings
 - Empathize the stage of the [design-thinking model](https://www.nngroup.com/articles/design-thinking/) (or in discovery)
-- Participants don’t review or try a design UI/GUI or any visual input
+- Participants don't review or try a design UI/GUI or any visual input
 - Has more  natural interaction like regular eye contact, facilitators are warmer and approachable
 
 
@@ -76,7 +76,7 @@ Follow these steps to help you define and draft your interview protocol.
 - Step 2: Develop interview questions based on your research questions
 - Step 3: Refine your interview questions 
 
-Interview questions should be open-ended and enable the user to consider what order you would like to ask your questions. Start with simpler, or “easier” questions, to build rapport with your user.
+Interview questions should be open-ended and enable the user to consider what order you would like to ask your questions. Start with simpler, or 'easier' questions, to build rapport with your user.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::

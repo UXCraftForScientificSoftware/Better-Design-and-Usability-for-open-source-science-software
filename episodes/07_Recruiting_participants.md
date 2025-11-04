@@ -109,22 +109,77 @@ There are two versions of a recruitment message, one that is for large audiences
 
 *We're booking [Time interval e.g. 10 - 20 min] conversations to better understand how to improve [our tool/software] for everyone. If you're able to participate, please fill out this simple form [add a link to a form].*
 
-
-
-
-
+Don't be surprised if after sending these messages you get some messages for clarification. It's best to not make your messages too long and allow potential users to ask clarifying questions as to their relevance for the user experience research. This back and forth of question and answer can go some ways towards building rapport (which we cover in the section []'Building trust with users and leading into your user experience research questions'](#) in ['Conducting Interviews'](#)). It is a good idea to prepare or keep a 'frequently asked questions' (FAQ) section for you to either reference in your reply or direct any potential user participants towards. If you wanted to make that FAQ openly accessible on a repository or in an open document online then it can be easily referenced.
 
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-Back to Zarah and Ester. Zarah has discovered that Ester has had to ‘hack’ the open source scientific software in order to enter specific environmental data for the ocean-based plants Ester is researching. Zarah would like to understand if offering flexible data entry options for people like Ester would be the best feature to improve the software’s usability or if the bugs that Ester identified require other considerations. 
+Using one of the above templates, try to craft your own recruitment message adding in the details that you defined in your recruitment strategy.
 
-**What** 
-Zarah’s tasks:
-[needs completing]
+**For example:** *Zarah, after speaking to Ester, was inspired and wanted to recruit more people to do user experience with to measure alongside Zarah's experiences. She sends this to a forum for a conference of plant scientists.* 
 
+:::::::::::::::: solution
+
+*Hello everybody! Have you ever struggled to get your plant computer vision tools to recognise your images? If you want to help improve the software for plant image vision classification, read on!*
+
+*I want to speak for 30 minutes with a few people who have been using computer vision models on images and come across challenges with images and recognition accuracy.*
+*If you're interested please fill out this 4 question form I created on google forms so i can contact you. If you have more questions you can head over to my <u>github</u> to see more details.*
+
+*Thank you*
+*Zarah*
+
+:::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::: discussion
+
+To simulate and test what questions people might have, ask someone else who has explored these topics and to take a look at your draft recruitment message and see what questions they might have for you so you can prepare for those questions. 
+
+Alternatively, what kinds of questions would you have for Zarah based on the example draft recruitment message.
 
 :::::::::::::::::::::::::::::::::
+
+## Screener surveys and scheduling
+
+A screener (a short request for information and/or submittable form) is an advised but optional part of the recruitment process. Screeners are typically used to be certain that the person you intend to involve in your user experience research meets the criteria of the type of people and experiences that you want to gather data about.
+
+It's advisable to not make the screener questions too long or have too many of them and be sure that your questions cannot be answered ambiguously. The idea of a screener is to find out whether you want to involve them in your user experience research. Another purpose of the screener is to help you learn a little more detail about the potential user participant in order to make questions and tasks smoother when conducting your user experience research.
+
+Typically a screener that includes:
+1. Who you are looking for in terms of what kinds of 'behaviours' you want from testers e.g. 'We want people who use a specific operating system, a specific programming language'
+2. How much time they need to commit
+3. How you can follow up and contact them
+4. When you expect to conduct testing and any schedule information
+
+
+**A sample screener question set**
+
+Are you involved in scientific research that uses technology?
+Yes/No/Other - explain
+
+How often do you use python and use theusing common line interface (CLI)?
+Every day / a few times a week / less than once every two weeks
+
+Please enter your timezone/when you'd be free for a 30 min meeting
+[enter availability or send a scheduling link that connects to a calendar]
+
+Please provide a method to contact you to follow up
+[enter email/phone number etc]
+
+## Thinking longer term and building a user participant list
+
+This lesson is largely about how to do faster and more accessible to non-professionals user experience research. It's not essential that you look at a longer term strategy for building user participant lists in order to make informed design decisions for your open scientific software.
+
+If you have time, capacity and interest, thinking forward to how these small user experience interventions and explorations build into a structured process or approach can benefit you in the future. Especially if you have interest in making these user experience research processes accessible to designers that may want to offer open source volunteer contributions to the scientific open source software you build/maintain. 
+
+Ways of looking to the future can mean:
+1. Keeping a private and secure log of the people that have contacted you in accordance with any institutional and regional specific data policies.
+2. Sharing what you are able to about your user experience research process openly as per an 'open source' approach e.g. keeping track of user experience research conversations in issues/documented in a repository along side notes of the data gathered.
+3. Starting manageable community engagement/gathering processes or platforms e.g. starting a forum discussion section and inviting open discussion that abides by a code of conduct. This way you don't need to spend too much attention on 'moderation' of the community that grows.
+4. Setting public/openly visible goals for your open source scienctific software so that others that step in to conduct user experience research can know where to focus and/or users can know what you want feedback around from an ad-hoc perspective and can offer that outside of a structured 'conversation'. These goals don't need to be long, time-gated or very detailed, but some guidance is better than nothing.
+
+A note on compensation: In an ideal world, you'd compensate people for their time, expertise, and feedback. However, we understand that this is a lean user testing process. Can you offer them something other than money, such as swag (tshirts, stickers, badges), account upgrades for software as a service, or simply just credit and thanks as a contributor. If you can't offer anything, try to keep the tests on the shorter side and of course, offer your thanks.
 
 
 :::::::::::::::::::::::: keypoints
@@ -137,12 +192,23 @@ Zarah’s tasks:
 
 ### Finding users
 
-- Consider building your network and contacts casually through channels you don’t typically engage with and asking people you know who might have broader connections to gain access to users and communities you don’t typically inhabit.
+- Consider building your network and contacts casually through channels you don't typically engage with and asking people you know who might have broader connections to gain access to users and communities you don't typically inhabit.
 - Be aware and respond appropriately to the complex and changing nature of global access to the internet. Many people do not have free and unrestricted access to the internet in order to participate in user experience research.
 
 ### Crafting Recruitment messaging
 
-- 
+- Consider if you'll be sending messages to a wider audience and/or one to one messages to people you have contact details for. 
+- Recruitment messages work best when they are readable within a minute or so, avoid anything that is longer than half a page of text at a legible text size. 
+- Allow potential user experience research participants to ask follow up questions and consider building a frequently asked questions document for them to look at or you to reference.
 
+### Screener surveys and scheduling
+
+- Screeners are used to refine the pool of potential user participants by criteria you set and also to gain some insight on their behaviours ahead of your user experience research.
+- Be sure to keep screeners short and clear, letting user participants fill out information as honestly and clearly as possible.
+
+### Thinking longer term and building a user participant list
+
+- Planning for the longer term might be out of reach for most, but if you have time and capacity, thinking about ways to open up, pass on or document what you’ve already done can help your scientific open source software continue to be well supported by user experience research insights into the future.
+- Consider what (if any) compensation or thanks you can offer those that participate in your user experience research.
 
 :::::::::::::::::::::::::::::::::

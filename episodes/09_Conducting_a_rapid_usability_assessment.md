@@ -1,5 +1,5 @@
 ---
-title: "Recruiting participants" # Episode title
+title: "Conducting a rapid usability assessment" # Episode title
 teaching: 60 # teaching time in minutes
 exercises: 20 # exercise time in minutes
 ---
@@ -8,11 +8,9 @@ exercises: 20 # exercise time in minutes
 
 ## Questions
 
-  - How do I develop an appropriate recruitment strategy based on the chosen target user audience?
-  - How do I find users that I don't have a connection with already?
-  - How do I manage scheduling and how to coordinate user experience research sessions?
-  - How do I decline users that do not meet my requirements as a chosen user audience?
-
+  - How do I better understand what a user is thinking or expecting as they progress through a task?
+  - How do I support users to move through blocks and errors without offering the solution and biasing their task?
+  - How can I observe task completion and also take notes?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -20,129 +18,137 @@ exercises: 20 # exercise time in minutes
 
 ## Objectives
 
-  - Develop user recruitment messages and other messaging needed for user experience research recruitment
-  - Develop any necessary screeners to ensure you recruit appropriate users
-  - Schedule user experience research sessions
-  - Establish a participant list for longer term testing
-
+  - Prompt participants to think aloud and describe their actions
+  - Assist participants with error recovery and keeping the user on task
+  - Taking notes on data whilst also not missing any user activity on tasks
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Preparing for this episode
 
-## Recruitment strategy and refining your user audience
+Parts of this episode has been made into a teachable workshop and can be access here: [https://github.com/jlcohoon/ux-design-strudel/blob/main/episodes/conducting-study.md](https://github.com/jlcohoon/ux-design-strudel/blob/main/episodes/conducting-study.md)
 
-[https://sprblm.github.io/devs-guide-to/user-testing/recruiting-testers/](https://sprblm.github.io/devs-guide-to/user-testing/recruiting-testers/)
+Ahead of this lesson you should have completed the ['Preparing your rapid usability assessment'](). That lesson should have allowed you to prepare a 'script', 'task plan' or some amount of guidance on what you intend to ask users to do and answer in your rapid usability assessment.
 
-An essential component of doing user experience research is finding, communicating with and spending time with users to understand and learn from their experiences and perspectives.
-In this episode, we cover the essential aspects of recruitment strategy, messaging, scheduling and optional long term planning.
+Much of the guidance offered in the lesson ['Conducting Interviews']() can apply to conducting a rapid usability assessment. In particular, take time to review ['Recording, taking notes and data collection']() as one of the primarily unique aspects of recording and taking notes in a rapid usability assessment is, depending on the speed a user usesusers their software/technology as you take notes you may miss micro interactions like where a user moves their mouse cursor, what text they might type and then re-type. In particular rapid usability assessments 'rapidness' means that simultaneous observation and note taking can be intense. Asking users to slow down, to double check what action they just did or what they just wrote is all ok as well as trying to understand, discover and record the pace at which these users naturally work. 
 
-Make sure that you have reviewed and completed the section ['Choose and find your target user audience'](https://uxcraftforscientificsoftware.github.io/Better-Design-and-Usability-for-open-source-science-software/02_Choosing_a_research_method.html#choose-and-find-your-target-user-audience) in the episode ['Choosing a research method'](https://uxcraftforscientificsoftware.github.io/Better-Design-and-Usability-for-open-source-science-software/02_Choosing_a_research_method.html).
+::::::::::::::::::::::::::::::::::::: callout
 
-Once you have your intentions, goals and needs documented, you can translate that information to recruitment messages to potential users.
+Take some time to go through the same task you'll be asking a user to go through (if you are able to e.g. have all relevant software/technology etc.). 
+Roughly time how long this takes and make a note of the steps involved for yourself. 
+By mapping this out, you can isolate the specific parts of a task that you want to be sure to observe closely and carefully.
 
-First, decide how many users you'd like to start with speaking to. There are no wrong answers here, as stated in the ['Choose and find your target user audience'](https://uxcraftforscientificsoftware.github.io/Better-Design-and-Usability-for-open-source-science-software/02_Choosing_a_research_method.html#choose-and-find-your-target-user-audience) section of the ['Choosing a research method'](https://uxcraftforscientificsoftware.github.io/Better-Design-and-Usability-for-open-source-science-software/02_Choosing_a_research_method.html), this is about you deciding how many users you want to speak to in order for you to feel comfortable with the data you've gathered and to use that data to make informed design decisions about your open source science software. You can start with a low number and then increase that should you gather interesting and valid user participants.
+:::::::::::::::::::::::::::::::::::::::::::::::
 
-It's also useful to set time-lines for your 'data gathering' phase, this helps the potential user participants better align with a timeline in their schedule. When you make timelines flexible to your potential user participants, you can risk the data gathering phase being very long or the user participants having long gaps between the data gathering. This can sometimes mean factors can change your original conditions for your user experience research.
+::::::::::::::::::::::::::::::::::::: discussion
 
-Deciding the duration of each test helps the team and your participants manage expectations. We like to do 20-minute, 30-minute, or 45-minute tests, depending on the size of the task. Remember to give yourself some buffer time and end the test promptly at the time limit to respect the participant's time. Don't feel the need to schedule test sessions back to back - give your team a break between sessions.
-
-Testing can be done in-person and remotely. We recommend that everyone's face is visible (unless anonymity is crucial) and you all can see what's being tested. If you give a phone or a laptop to the user, sit next to them (if culturally appropriate) so that you can watch the process. If the testing is remote, you can share your screen (the participant verbally gives commands while you perform the operations) or ask them to share their screen (making sure to get their consent in advance).
-
-It's good to have an idea of what kinds of characteristics and behaviours the users need to have in order to be most useful and informative to you in the test scenario. The balance here is to make sure you are not setting too restrictive characteristics and behaviours so that users self-select out of the running to test. Here we want to reassure users about the eligibility criteria you are setting and that even if they deem themselves 'less proficient' that you may still want to learn from them. We'll explore how to word these needs inclusively and openly when we come to craft recruitment messages and screener surveys.
-
-
-
-::::::::::::::::::::::::::::::::::::: challenge
-
-Describe the parameters that you'll start with for your user experience research. Answering the following questions with short, simple answers will help you develop these parameters.
-
-
-1. How many days/weeks for gathering data 
-2. How many days/weeks for sourcing user participants
-3. How long do you intend for the user experience research session to last? e.g. 20 mins, 60 mins etc.
-4. Should the users be accessible in person, online or both? 
-
-Describe the details of what your users need in order to provide you with useful insight to help you make informed design decisions. The following prompts can help you define this but you may also want to define your own criteria.
-
-1. What kind of scientific/research work should the user be doing?
-2. What kind of software and/or system requirements and proficiency should they ideally have? (remember, if you ask some user to rate their proficiency they sometime self-select out of the process because they consider their skills to be 'lacking')
-3. Alternatively, how many times (if any) should they have used a specific technology or software?
-4. What kind of background knowledge should the user have if any? e.g. The user should have experience of using API endpoints, of R statistical programming etc.
-5. What other details are important to your user experience research? e.g. They should work in a lab setting, they should be a current researcher in an institution, they should have published papers etc.
+Discussing your tasks and/or questions with another person that is at the same or similar level of familiarity as the users that you intend to test with can uncover any unclear or leading language in the tasks and/or questions.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Finding users
+## The think aloud protocol 
 
-When starting your outreach to potential user participants, you can first make a list of possible outreach channels where your community gathers, such as: a specific software or community email listserv, social media followers, academic citations of your software in published papers, bug reports/issues, related communities on Reddit, forums or Discord, your website visitor analytics or submissions. You might also attend relevant conferences or events related to research, programming languages or your open source scientific software and gather interest in person.
+An important aspect of conducting your rapid usability assessment is to remind users, as they perform tasks, to 'think out loud' and/or describe their thinking, expectations, habits or confusion while they are performing their tasks.
 
-When it comes to finding users that you are't already aware of, such as users outside of your research domain or professional and social circles, creating a lower stakes 'recruitment' message can be beneficial to have and circulate. These lower stakes recruitment messages typically omit detailed information about the specific user experience research parameters and are more about expanding your own connections and network. 
+At the start of the usability test you can establish that you want the user to 'think aloud'. A sample statement might sound something like:
+*"We want to hear your thoughts as you go, so please think aloud as you do tasks. Feel free to speak your mind. We are not testing you, we are testing the software/prototype/technology/process."*
 
-*'I'm a researcher looking into [specific scientific research subject] at [insert institution, organisation or company] and/or I am building/maintaining [Insert scientific/research software here]. I'm looking to meet and connect with people in [insert region/country] that identity as [insert e.g. new users, researchers in a specific field, people who use OSS, people who code, people learning to code etc.'].'*
+If you are specifically rapid usability testing a prototype or a version of your open source science software that doesn't have fully operational functions then you can state:
+*"We're still working on it, so it might not work as you expect. We wanted to get your feedback early in the process. So telling us your expectations and needs as you perform tasks can help us improve it for you and other future users"*
 
-Finding users that are 'not online' already can be really difficult. Some of the people that are systematically excluded from technology, including scientific open source software, are those that have unstable, restricted and/or complete lack of access to the internet or the 'free and open' internet. Being aware that across the globe, there will be users in governmental, social or technological ecosystems where access to them will be difficult and their participation in user experience research could put them at risk depending on nuanced and changing attitudes and policies. 
+While you observe what the user did do, what they tried to do, and what they avoided doing or missed, you can ask certain probing questions to better understand problems or motivations of the user. 
 
+**Examples of these probing questions:**
+- What are you thinking?
+- What are you looking for? Are you looking for something specific and can you describe what you are looking for?
+- Why do you think this happened? (in reference to an error or a 'mistake')
+- Can you give me more detail as to why you did that action or think that?
 
-## Crafting Recruitment messaging
+With your probing questions and asking users to think out loud, be sure to take into account the time you have for your tasks and questions. Interrupting users that are concentrating on a task (even when they are already thinking out loud) means they can take time to 'get back into' the task and complete it. Be sure to balance how often you probe with questions, interrupt and clarify the user's thinking and expectations and focus on your most critical questions according to your goals for the user experience research  and your overall research question.
 
-There are two versions of a recruitment message, one that is for large audiences to then contact you specifically and one to one messages that you send directly to a specific person that you believe fit the criteria for your user experience research.
-
-**Sample script for a large audience recruitment message**
-*Are you familiar with [topic/goal/research question to test]? We want to talk to you.*
-*I'm [tool team member name], part of the team at [our tool/software]. We are working on a new feature and we'd like your help to test it out. We'd like to speak with you for [Time interval e.g. 10 - 20 min] and have you try it. Thank you! If you are interested and able to help, send me an email: [email address].*
-
-**More info**
-**Who can be a tester?** *People who use [tool/software] and/or are familiar with [particular technology].*
-**What is [tool/software]?** *[One sentence about your tool/software]*
-**Do I need to prepare?** Nope! Come as you are.*
-**Is it private?** *Of course. We will not be recording voice or video. We will be taking brief notes about what works and what doesn't in the design so that we can make improvements. We will not share your identity with anyone.*
-
-**Alternative sample script for a large audience recruitment message**
-*Hello everybody! Have you ever [activity/feature you are targeting]? If you want to help improve [tool/software], read on!*
-*My colleagues and I at [tool/project] want to speak for [Time interval e.g. 10 - 20 min] with a few people who have [experience you want to target].*
-*If you're interested please fill out this short form: [add a link to a form]*
-
-**Sample script for a one to one recruitment message**
-*Do you have [Time interval e.g. 10 - 20 min] and use [software]? We'd like your help!*
-*We are about to release a new version of [our tool/software] and want to hear from you. To help us understand your needs and how to improve [our tool/software], we'd like to hear about your experiences with the tool (whether you've used it for a long time or just recently started using it!).*
-
-*We're booking [Time interval e.g. 10 - 20 min] conversations to better understand how to improve [our tool/software] for everyone. If you're able to participate, please fill out this simple form [add a link to a form].*
-
-
-
-
-
+Don't be worried if the testers offer direct solutions - that's a common reaction. 
+Solutions statements can sound like:*"I want the technology to automatically know when I've added a second plant image from the same plant or around the same time as another photo."* Here a user offers a solution that they believe will solve their problem. But wait! You need to find out the meaning and cause of their need and why they think that's a good idea. 
+Use a method like the 'Five Whys' process from the 'Conducting Interviews' episode to explore what the user wants or needs to be able to do.
 
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-Back to Zarah and Ester. Zarah has discovered that Ester has had to ‘hack’ the open source scientific software in order to enter specific environmental data for the ocean-based plants Ester is researching. Zarah would like to understand if offering flexible data entry options for people like Ester would be the best feature to improve the software’s usability or if the bugs that Ester identified require other considerations. 
+Take a look at the task prompts and user descriptions in the below table. Fill in the gaps where you think a follow up probing question could gain further information or insight.
 
-**What** 
-Zarah’s tasks:
-[needs completing]
+| **Task description**                                                                                                  	| User response/action                                                                                                                                                                                                                                                                                     	| Probing question                                                                                                                                                                                                                             	|
+|-----------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Can the user add a new data entry?                                                                                    	| The user starts by spending time finding a data set from their recent data in order to add a new entry. They spend time scanning through cells on a spreadsheet and they are reading silently                                                                                                            	| I notice you've started by looking at a dataset. Can you tell me what you're thinking and why right now? Is there a reason why you started with that?                                                                                        	|
+| Show me how you would explore alternative models to train your data on?                                               	| The user hovers over a search function and also uses control + f to search the page for a term related to their research. They say out loud that they are scanning the list of models available and visually ignoring those related to their research in order to find other models to train their data. 	| Can you tell me more about anything you expected to be able to see/do when exploring alternative models? *(here the interviewer is vaguely prompting the function of search to see if the user has any thoughts regarding filtering function)* 	|
+| Can you go through this installation process and complete the appropriate requirements/dependencies for the software? 	| *Add your answer here*                                                                                                                                                                                                                                                                                   	| *Add your answer here*                                                                                                                                                                                                                       	|
 
 
 :::::::::::::::::::::::::::::::::
+
+
+## Helping users recover from an error
+
+During your rapid usability testing, you may find that users come across problems, errors or places where they get 'stuck'.
+
+It's important to resist the urge to explain your software, correct their mistakes, or defend your choices. Give users plenty of time to solve their own problems/errors or answer your questions/prompts. Don't be afraid of silence or gaps in conversation, sometimes users need time to think and respond (let them know that's okay). 
+
+If asked, you can choose whether or not to indicate to the user whether you've seen this problem or error before. You can prompt them to please try to solve their own problem because it's often important to see how users recover from errors.
+If a user is stuck for over 2 minutes on the same problem you can step in to help in order to continue the rapid usability test's plan or you can ask if they'd like to start the task again. You'll likely know the quickest or easiest way to solve this problem from your own usage or checking over the tasks when preparing.
+
+If the user hasn't encountered an explicit error or problem but they're unsure if they've performed the task correctly, they may ask you to confirm whether they are correct or not. This is particularly tricky when they have perhaps misunderstood a task or they have taken an unknown route to solving a task that you did not want to test,
+
+In these situations it's a good idea to remind the user that what they think is correct is the most interesting aspect of the tasks/questions for you. You can try repeating what a tester said or did back to them and clarify their actions - ask them if you understood what they did in order to perform the task or solve a problem correctly. You absolutely can ask a user to pause at a point that feels comfortable to you both and ask them to perform a specific set of actions/functions in order to get to the parts of an experience you need to test. Using your best judgement here is what you'll need to rely on.
+
+Ensuring a user understands a task/question and you can repeat it back to them is especially important if you're testing with someone who is speaking in a language that they don't use often.
+
+
+:::::::::::::::::::::::: callout
+
+Take a look at one of your tasks in your rapid usability test plan
+Try mapping out what the most common ways a user can solve this are and any potential anomalous ways that users could complete that task. 
+What are some ways to clarify the task/question to ensure the users proceed down the path that you want to observe and gather data on without being too explicit? 
+
+:::::::::::::::::::::::::::::::::
+
+## Simultaneous observation and note-taking
+
+Taking notes, observing users, thinking about how to prompt and respond to users - there's a lot to remember and do during rapid usability testing. Having more than one user experience research here can help, one person can focus on note taking and the other observing the users behaviour and/or screen/technology and prompting. But not everyone has access to more people to help. Other ways you can manage the work-load is to record audio or video of the rapid usability test (with consent) or do screen recordings if a user is using a device with screen recording capabilities.
+
+We recommend you review the section 'Recording, taking notes and data collection' in the episode 'Conducting Interviews' to cover advice on note-taking generally as well as sorting, tagging and theming data ahead of the analysis process.
+
+If you're conducting the rapid usability test online, you can ask a user to 'share their screen' if the technology you and they are using has that functionality and often these technologies also allow for video and/or audio recording. It's important that you can see what the user is seeing so that you're sure you know what they're talking about and whether they are progressing the task as you intended. Some of these technologies also allow for transcription of what is said with time stamps for when. These are helpful when looking back at written data and checking what part of a task was performed when and what was said.
+
+If you don't have access to help or these technologies, then ensuring you're not trying to cover too many tasks/questions in the time you have and going slowly will help you gather accurate data, which is more useful than volumes of inaccurate data.
+
+Lastly, a great way to get additional useful feedback is, at the end of the rapid usability test, to ask if there's anything else they'd like to share with you - sometimes the most interesting insights come after the test is finished and the perceived pressure's off the user.
+
+Further resources can be found here:[https://sprblm.github.io/devs-guide-to/conducting-a-user-test/](https://sprblm.github.io/devs-guide-to/conducting-a-user-test/)
+
+
+::::::::::::::::::::::::::::::::::::: discussion
+
+Based on your knowledge of your tools, what combination of technologies, people based-support or processes do you think will help you to maintain good data collection as well as observing the user?
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 
 :::::::::::::::::::::::: keypoints
 
 ## Key points
 
-### Recruitment strategy and refining your user audience
+### The think aloud protocol 
 
-- Defining your parameters, timings and criteria for who you intend to do user experience research with as well as the behaviours and characteristic preferences of the users.
+- Going through the tasks yourself or with another person that meets the criteria of your users can help you understand how feasible your tasks and questions are in relation to timings.
+- Ensure your 'think aloud' probing questions are related to your goals for user experience research and/or your overall research question. Be sure to balance how often you are probing.
 
-### Finding users
 
-- Consider building your network and contacts casually through channels you don’t typically engage with and asking people you know who might have broader connections to gain access to users and communities you don’t typically inhabit.
-- Be aware and respond appropriately to the complex and changing nature of global access to the internet. Many people do not have free and unrestricted access to the internet in order to participate in user experience research.
+### Helping users recover from an error
 
-### Crafting Recruitment messaging
+- Users often take different pathways to complete a task than you anticipated. They also often encounter errors even if you've tested extensively for error states. Planning for how long you're happy to have users divert from the pathway you want to test is up to your own judgment.
 
-- 
+### Simultaneous observation and note-taking
+
+- Using technology and people-based support can help you gather more data that can be checked against transcripts and time stamps but if in doubt about what you have access to, go slow, be accurate and stay realistic about the balance of observation and data note-taking.
 
 
 :::::::::::::::::::::::::::::::::
