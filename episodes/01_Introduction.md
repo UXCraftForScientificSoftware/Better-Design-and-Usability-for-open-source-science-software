@@ -45,7 +45,7 @@ One of those ‘bugs’ was that using images of underwater plants while they ar
 
 This bug has some aspects that are user experience problems/challenges that can begin to be solved by understanding the user experience through research and addressed by making user experience better for this user's specific case.
 
-[Insert image/comic of a dev calling a bug a technical bug and a designer yes-and-ing it as a usability bug]
+-Insert image/comic of a dev calling a bug a technical bug and a designer yes-and-ing it as a usability bug-
 
 ## Using user research to understand the ‘bug’ more.
 
