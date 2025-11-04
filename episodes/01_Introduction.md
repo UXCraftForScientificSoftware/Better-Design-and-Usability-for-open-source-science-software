@@ -1,5 +1,5 @@
 ---
-title: "Introducing User Experience Research and Design"
+title: "Introducing User Experience Research and Design" # Episode title
 teaching: 20 # teaching time in minutes
 exercises: 10 # exercise time in minutes
 ---
@@ -54,11 +54,11 @@ Let’s return to Zarah and Ester. Zarah was surprised when they saw a number of
 Zarah spends some time looking at these bugs in Ester’s forked version of the software. She notes down some common themes and categorizes them in order of what she knows the most about and least about in terms of water-based plants and image recognition.
 From this prioritised list of what she most wants to find out, she’s able to form some questions she could ask Ester (and other water-based plant scientists) about how they use the open source scientific software. She now has a list of questions, most are related to the bugs and some are more broadly about how others use the open source scientific software.
 
-[Insert image/comic of notebook paper and a list of questions and plant drawings]
+-Insert image/comic of notebook paper and a list of questions and plant drawings-
 
 Zarah is about to email Ester and arrange a meeting to ask these questions. But she pauses and wonders how others ask these kinds of questions. She takes a moment to search online and discovers that there's multiple methodologies that people use in order to ask questions to people that use software. Using the method of ‘Contextual Inquiry’ as guidance, Zarah sets up a time with Ester in the lab that she does her ocean based image research and watches Ester use the open source scientific software while asking questions from her list at the appropriate times Ester uses certain functions or comes up against ‘bugs’. Zarah discovers that while some ‘bugs’ are functional, some are that Ester uses the open source scientific software differently to achieve the same or similar conclusions. For example, Ester has to ‘hack’ the data to include different environmental criteria for the ocean-based plants and Zarah thinks this is more about offering flexible data entry options for people like Ester rather than assuming everyone enters the same data as Zarah does.
 
-[Insert image/comic of two scientists in front of a computer with an ocean tank in the background with an interested lobster]
+-Insert image/comic of two scientists in front of a computer with an ocean tank in the background with an interested lobster-
 
 When Zarah is back at her own lab she looks at the data from speaking with Ester again. She notes that it’d be good to speak to more people that are using the open source scientific software differently to her and uses the information she gather from speaking with Ester to better contextualise existing bugs in her software repository as technical bugs or user experience bugs, where she then describes (without using Ester’s name) how the open source scientific software’s functions could be used differently and adapted to fit Ester’s use case and those like hers.
 
@@ -71,6 +71,7 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
 ::::::::::::::::::::::::::::::::::::: discussion 
 
 ## Discussion
@@ -82,7 +83,7 @@ Discuss with a fellow learner what you’d be looking to do next if you were in 
 :::::::::::::::::::::::::::::::::
 
 
-:::::::::::::::::::::::: practice 
+:::::::::::::::::::::::: callout 
 
 ## Practice
  
