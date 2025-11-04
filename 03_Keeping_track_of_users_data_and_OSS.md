@@ -8,7 +8,7 @@ exercises: 40 # exercise time in minutes
 
 ## Questions
 
-  - How can I be sure I’m storing data about people securely?
+  - How can I be sure I'm storing data about people securely?
   - What ethical considerations should I have when doing user experience research and how does that work with my scientific research?
   - What are systems and processes for tracking user experience research?
   - How should I organise my notes to remain open and understandable?
@@ -33,11 +33,11 @@ exercises: 40 # exercise time in minutes
 
 ## Storing data about users safely and securely
 
-If you are part of an organisation or institution you may already have policies and practices in place to ensure the safety of data associated with your open source scientific software. It’s important to follow these processes above any advised processes and practices here. The advice and guidance contained in this episode are specific and unique elements of user experience research data storage that is often missed by institutions and organisations that are not used to handling this kind of data.
+If you are part of an organisation or institution you may already have policies and practices in place to ensure the safety of data associated with your open source scientific software. It's important to follow these processes above any advised processes and practices here. The advice and guidance contained in this episode are specific and unique elements of user experience research data storage that is often missed by institutions and organisations that are not used to handling this kind of data.
 
 We recommend that you by default limit and restrict what personally identifying information you collect in the user research process. It may be essential to note down, Names, Alias, Institutions/Organizations/Companies and aspects like project names. It is rarely if ever relevant to record detailed demographic information such as age, specific location/address, gender, race/ethnicity and any other personal characteristics. We acknowledge that sometimes these identities and experiences can inform how a user performs their tasks using software and also can be important from a perspective of demonstrating that you are researching with a wide array of users (and not just the same demographics over and over). However, these demographics combined with searchable information across identity databases can lead to unintended risks and consequences for users. This can be as extreme as facing legal action should they have disclosed sensitive information (or information/identities that are criminalised in a specific country) in confidence of the interview process (either inadvertently or purposefully in relation to your research topic) and as mild as your user experience research participants receiving critiques or being called out privately or publicly.
 
-We can’t know all the risks involved with collecting data around our open source science projects, but we can limit the ways in which people disconnected to the user experience research data collection can piece together who a person is from the data that they offer and we can empower our user experience research participants to redact any data that they view as sensitive or might put them at risk. 
+We can't know all the risks involved with collecting data around our open source science projects, but we can limit the ways in which people disconnected to the user experience research data collection can piece together who a person is from the data that they offer and we can empower our user experience research participants to redact any data that they view as sensitive or might put them at risk. 
 
 When it comes to the logistics of data storage, if your institution or organization does not have policies for secure and private storage already, then consider using, login, password and 2-factor authentication protected services (if you want to store data in the cloud) or login and/or password protected local storage on your device/harddrives. For large files like video and audio, these can be costly to keep locally from a size point of view. Be aware of the limitations of keeping these kinds of files (along with transcriptions) on services like Zoom. Be sure to read the privacy policies and data policies of any services you decide to use if not stipulated by your institution or organization.
 
@@ -49,11 +49,11 @@ Take a look at the list below. It contains a series of different kinds of data t
 
 **Example**
 
-**Full Legal Names:** Record initials only or give users a ‘code name’ as a reference, only refer to the user as the code name during data collection and in written data. Codenames alongside known names/aliases are stored in a single, password protected file for approved researcher access.
+**Full Legal Names:** Record initials only or give users a 'code name' as a reference, only refer to the user as the code name during data collection and in written data. Codenames alongside known names/aliases are stored in a single, password protected file for approved researcher access.
 
 **Project Name and purpose:** Rather than the explicit project name, you can describe what the project does instead to slightly abstract the project. This only works if the project is specific enough that it cannot be singled out by description.
 
-**Institutional Affiliation:** Record the general sense of the department or that it’s a ‘lab’. Adding a genre such as ‘environmental science’ or otherwise can help both yourself frame the data when you re-read it and also helps orient others should they read any open data. Avoid any direct institutional names, this tends to make user participants less honest about any systemic problems that impact their use of software.
+**Institutional Affiliation:** Record the general sense of the department or that it's a 'lab'. Adding a genre such as 'environmental science' or otherwise can help both yourself frame the data when you re-read it and also helps orient others should they read any open data. Avoid any direct institutional names, this tends to make user participants less honest about any systemic problems that impact their use of software.
 
 **Country of origin/residence:** Recording timezone like UTC+4 
 
@@ -80,7 +80,7 @@ Of course, first look at your own institutions/organizations policies and proced
 
 Next understanding from the previous episode, what kind of data you will capture about who in what ways is critical. Keeping a spreadsheet/database of any highly sensitive identifying information under password and locked systems is highly advisable to avoid any risks of harm to you or your user experience research participants.
 
-We’d advise keeping two separate sets of information. One set where you have highly sensitive information like what the legal/known names, institution names, locations etc. along with what code name or reference word you gave the individual. A second set of information would be the code name and any information that can be readily public and non-risky to share.
+We'd advise keeping two separate sets of information. One set where you have highly sensitive information like what the legal/known names, institution names, locations etc. along with what code name or reference word you gave the individual. A second set of information would be the code name and any information that can be readily public and non-risky to share.
 
 **Example of sensitive information to be locked**
 **Code name:** Vash
@@ -96,8 +96,8 @@ We’d advise keeping two separate sets of information. One set where you have h
 **Educational level:** PhD researcher and Coder
 **Experience with coding/technical tool/process:** Proficient in python and common line. Has built own commands and tools.
 
-The above ‘potential public information’ shouldn’t cause any problems for the user experience research participant should it be made public knowledge to assign any of this person's comments. To clarify the risks more clearly, imagine if ‘codename Vash’ spoke about how frustrated he was at his institution's funding of certain sciences and labs in relation to his use for the open source science software that you are asking him about.
-This kind of comment, while possibly still relevant to you understanding how you can better your design decisions of your open source scientific software, could seriously harm code name Vash’s personal and professional reputation. So while it might be vital information, understanding when that vital information must be kept private and secure is an ethical and moral imperative for those involved in user experience research.
+The above 'potential public information' shouldn't cause any problems for the user experience research participant should it be made public knowledge to assign any of this person's comments. To clarify the risks more clearly, imagine if 'codename Vash' spoke about how frustrated he was at his institution's funding of certain sciences and labs in relation to his use for the open source science software that you are asking him about.
+This kind of comment, while possibly still relevant to you understanding how you can better your design decisions of your open source scientific software, could seriously harm code name Vash's personal and professional reputation. So while it might be vital information, understanding when that vital information must be kept private and secure is an ethical and moral imperative for those involved in user experience research.
 
 
 :::::::::::::::::::::::: discussion
@@ -116,13 +116,13 @@ Understanding how you might plan to recontact people can be an important part of
 
 ## Ethical user experience research
 
-It’s difficult to define ethical user experience research in broadly applicable terms because, as with most user experience research, your ethics and morals and those of the users involved play a large part in defining those ethics and morals. Again, ensuring you are adhering to the policies and procedures of your institution or organization is critical. Many institutions have ethics processes involved when it comes to research that involve human (and animal) subjects. User experience research involves humans directly in as far as you’re prompting, exploring and investigating the ways in which they perform their tasks and how they interact with the world associated with your open source science software.
+It's difficult to define ethical user experience research in broadly applicable terms because, as with most user experience research, your ethics and morals and those of the users involved play a large part in defining those ethics and morals. Again, ensuring you are adhering to the policies and procedures of your institution or organization is critical. Many institutions have ethics processes involved when it comes to research that involve human (and animal) subjects. User experience research involves humans directly in as far as you're prompting, exploring and investigating the ways in which they perform their tasks and how they interact with the world associated with your open source science software.
 
 Spend some time thinking about what your own boundaries and the boundaries of your science and research project are. Are there certain subjects and topics that might come up, that you will politely refuse to gather data on and advise a user participant to move onto a topic? You can notify potential user participants ahead of time of topics that will not be covered and will not be recorded in notes.
 Now consider how you would deal with surprising content or comments that are ethically and morally challenging to you and your work or put the user participant in a position of risk or uncertainty. Modelling and thinking through these potentials should be considered before you undertake user experience research so that you are not caught unprepared in a situation that is unethical or immoral.
 
 **For example:** 
-- A user participant may ask you to ‘put a good word in for them’ with a funder or institution that you have a relationship or affiliation with in order for them to participate in your user research. 
+- A user participant may ask you to 'put a good word in for them' with a funder or institution that you have a relationship or affiliation with in order for them to participate in your user research. 
 - A user participant might speak publicly about some private aspects of your open science research software that you do not want made public yet. 
 - A user participant might request a benefit of the open source science software in return for participation. Such as lowered or free access to versions of the software that may be paid or access to any other benefit that has a cost/value attached.
 - A user participant discloses some personal circumstances or events that are concerning their physical and/or mental health and/or wellbeing. This is given in the context of what was asked/prompted in regards to their user experience of the open source science software.
@@ -137,7 +137,7 @@ Take a look at the below user experience subjects. Assess whether you foresee an
 
 | **User participant comment/statement**                                                                                                                                                              	| **Potential ethical/moral problem y/n?**                                                                                                                  	| **Mitigation strategy**                                                                                                                                                                                                                                                                                                           	|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| **Example:**  A user participant withholds some comments that they insist can help make the open source science software that is being spoken about better but wants to be offered a benefit in return. 	| **Example:** Yes - depending on what they are asking for in return and also what they mean by ‘better’ and what from their experience informs those opinions. 	| **Example:** Confirm what the user participant wants in return outside of a spoken/synchronous conversation and record that process in documented (private writing). Assess whether the benefit is reasonable within given policies for compensation and that their view of their information of benefit is measured and appropriate. 	|
+| **Example:**  A user participant withholds some comments that they insist can help make the open source science software that is being spoken about better but wants to be offered a benefit in return. 	| **Example:** Yes - depending on what they are asking for in return and also what they mean by 'better' and what from their experience informs those opinions. 	| **Example:** Confirm what the user participant wants in return outside of a spoken/synchronous conversation and record that process in documented (private writing). Assess whether the benefit is reasonable within given policies for compensation and that their view of their information of benefit is measured and appropriate. 	|
 | A user participant speaks honestly but somewhat disparagingly about the lab department heads and how they review and distribute funding for specific projects and open source in their lab          	|                                                                                                                                                           	|                                                                                                                                                                                                                                                                                                                                   	|
 | A user participant discloses that they have used inaccurate data/plots/information in papers in peer review that the open source scientific software that is being spoken about has facilitated     	|                                                                                                                                                           	|                                                                                                                                                                                                                                                                                                                                   	|
 
@@ -149,7 +149,7 @@ Take a look at the below user experience subjects. Assess whether you foresee an
 
 Ensuring you are keeping understandable and accessible notes is critical to some of the further episodes in this lesson ([Episode: Interpreting results](#)). In that future episode we go into depth about how to tag/label your notes in order to make the process of understanding findings more robust and easy.
 
-Further episodes also look at supplemental ways to help you with data collection and note taking. In [Episode: Conducting Interviews](#), [Episode: Conducting rapid usability assessment](#) and in [Episode: Interpreting results](#), the benefits of automated transcription services are detailed as well as the benefits of inviting another person into the process of data collection in order to focus on note-taking while the other person focuses on asking questions, observing the user participant and being engaged in the data collection process of interacting with the use participant. In order for these future episodes to be most effective, committing at this point to robust note taking where you minimise jargon, shorthand and dedicate notes to ‘plain language’ descriptions and depictions of information presented by user participants can go a long way to ensuring that there is not an information or understanding barriers to reading notes and extracting meaningful data from the data.
+Further episodes also look at supplemental ways to help you with data collection and note taking. In [Episode: Conducting Interviews](#), [Episode: Conducting rapid usability assessment](#) and in [Episode: Interpreting results](#), the benefits of automated transcription services are detailed as well as the benefits of inviting another person into the process of data collection in order to focus on note-taking while the other person focuses on asking questions, observing the user participant and being engaged in the data collection process of interacting with the use participant. In order for these future episodes to be most effective, committing at this point to robust note taking where you minimise jargon, shorthand and dedicate notes to 'plain language' descriptions and depictions of information presented by user participants can go a long way to ensuring that there is not an information or understanding barriers to reading notes and extracting meaningful data from the data.
 
 Some best practice to make your notes understandable and accessible:
 
@@ -157,11 +157,11 @@ Some best practice to make your notes understandable and accessible:
 
 - When you have data that connects to another topic or data, take time to note what those connections are in brackets or another text style or if you can, make the link to the connected data as you go. Using some intelligent systems or tools that have features for linking the same terms can help make this a less manual task.
 
-- Take the time to explain any interpretations of data that are specifically relevant. Again, ensure the text styling here is different to the norm such as using italics, ‘Authors note’ etc.
+- Take the time to explain any interpretations of data that are specifically relevant. Again, ensure the text styling here is different to the norm such as using italics, 'Authors note' etc.
 
-- Ensuring that you save these notes in a  location that not only follows any policies and procedures that you may need to adhere to from institutions/organizations but if possible making sure those files are accessible and openable by multiple operating systems and softwares, don’t require a stable/consistent internet connection and also are not locked behind logins and/or payment plans.
+- Ensuring that you save these notes in a  location that not only follows any policies and procedures that you may need to adhere to from institutions/organizations but if possible making sure those files are accessible and openable by multiple operating systems and softwares, don't require a stable/consistent internet connection and also are not locked behind logins and/or payment plans.
 
-- Keep a glossary of jargon and terms/acronym that may need explaining to those unfamiliar with the terms. Just because you yourself know a term and its meaning doesn’t mean that other people have the same understanding of a term or acronym. This can also be great to store other meanings of terms via user participants and also great for user participants themselves to access should they want to clarify themselves any terms/acronyms that you or your open source science software uses.
+- Keep a glossary of jargon and terms/acronym that may need explaining to those unfamiliar with the terms. Just because you yourself know a term and its meaning doesn't mean that other people have the same understanding of a term or acronym. This can also be great to store other meanings of terms via user participants and also great for user participants themselves to access should they want to clarify themselves any terms/acronyms that you or your open source science software uses.
 
 - Where possible, link and reference the tools and/or software mentioned or likely to be mentioned in user participant data. A weblink or similar source material can help with referencing and recall at later dates.
 
@@ -200,9 +200,9 @@ When it comes to open licensing your user experience research, you may already h
 
 :::::::::::::::::::::::: discussion
 
-Take a look at your current open source license/s (if you don’t have a license, take a look at one of the [licenses from this list](https://opensource.org/licenses)).
+Take a look at your current open source license/s (if you don't have a license, take a look at one of the [licenses from this list](https://opensource.org/licenses)).
 
-Spend some time thinking about whether you’d want a specific license to cover your user experience research or if you can amend an existing license to get what you need from it.
+Spend some time thinking about whether you'd want a specific license to cover your user experience research or if you can amend an existing license to get what you need from it.
 
 :::::::::::::::::::::::::::::::::
 
@@ -214,8 +214,8 @@ Spend some time thinking about whether you’d want a specific license to cover 
 ### Storing data about users safely and securely
 
 - Be sure to follow any institutional or organizational policies or procedures ove the general advice found here.
-- Be careful to understand the purpose of the data you are collecting and ensure that you're not collecting data you don’t need and what data you do collect you consider the risks of it being made public.
-- Users can offer some surprising, honest feedback sometimes that they don’t fully realise could harm them so be sure to ask them if they’d like any information struck from the notes/data or if they want to be careful with certain topics.
+- Be careful to understand the purpose of the data you are collecting and ensure that you're not collecting data you don't need and what data you do collect you consider the risks of it being made public.
+- Users can offer some surprising, honest feedback sometimes that they don't fully realise could harm them so be sure to ask them if they'd like any information struck from the notes/data or if they want to be careful with certain topics.
 
 
 ### Maintaining a database of user participants for user experience research
@@ -242,7 +242,7 @@ Spend some time thinking about whether you’d want a specific license to cover 
 ### Open source user experience research
 
 - Making your user experience research open and open source can offer benefits such as allowing your users and contributors to follow essential development in your open source science software without needing to directly ask you which can boost trust and contributions.
-- Be sure to check over your open source licenses and make sure you’re happy that an existing license covers what you need it to do for your user experience research or consider another license or an amendment to a license for you to be happy.
+- Be sure to check over your open source licenses and make sure you're happy that an existing license covers what you need it to do for your user experience research or consider another license or an amendment to a license for you to be happy.
 
 
 :::::::::::::::::::::::::::::::::

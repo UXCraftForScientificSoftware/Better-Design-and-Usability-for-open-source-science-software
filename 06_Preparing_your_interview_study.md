@@ -34,7 +34,7 @@ exercises: 20 # exercise time in minutes
 
 [Author note: This episode is incomplete and needs some more information and writing to complete]
 
-Usability testing (also commonly known as user testing or usability-lab studies) is a UXR methodology that primarily focuses on observing how users directly interact with a specific software, technology, or tool. In a usability testing session, a researcher will ask a participant to perform a series of tasks or respond to a set of prepared prompts related to the tool being tested. The researcher will observe their behavior and ask follow-up questions when necessary. Most often, usability testing provides researchers with opportunities to work with real users and enables them to evaluate if the user will be able to use the tool to accomplish what they set out to do. Usability testing can help researchers identify any problems in the tool’s design, learn about the target user’s motivations and preferences, and determine areas for improvement.
+Usability testing (also commonly known as user testing or usability-lab studies) is a UXR methodology that primarily focuses on observing how users directly interact with a specific software, technology, or tool. In a usability testing session, a researcher will ask a participant to perform a series of tasks or respond to a set of prepared prompts related to the tool being tested. The researcher will observe their behavior and ask follow-up questions when necessary. Most often, usability testing provides researchers with opportunities to work with real users and enables them to evaluate if the user will be able to use the tool to accomplish what they set out to do. Usability testing can help researchers identify any problems in the tool's design, learn about the target user's motivations and preferences, and determine areas for improvement.
 
 
 ::::::::::::::::::::::::::::::::::::: challenge
@@ -56,7 +56,7 @@ As you begin planning your usability test, you should consider and answer the fo
 
 ## Rapid usability testing
 
-You don’t need a lot of resources to do user testing. We’ll look at rapid usability testing in this episode as a method for researchers who want to get started quickly and cheaply, are working solo, or may need to conduct first-round tests to gain buy-in for further testing. Rapid usability testing is often conducted remotely, with a small pool of users, and can involve an online testing tool.
+You don't need a lot of resources to do user testing. We'll look at rapid usability testing in this episode as a method for researchers who want to get started quickly and cheaply, are working solo, or may need to conduct first-round tests to gain buy-in for further testing. Rapid usability testing is often conducted remotely, with a small pool of users, and can involve an online testing tool.
 
 **What you need to get started**
 - Something to test (e.g. your current software, tool, or a sketch)
@@ -71,7 +71,7 @@ You don’t need a lot of resources to do user testing. We’ll look at rapid us
 
 [Add intro paragraph]
 
-Don’t try to test every part of your software - that's overwhelming for you and the participant. Instead, choose a small task that you’re curious about (such as a new feature) or that isn’t working so well (perhaps one known pain-point or bug).
+Don't try to test every part of your software - that's overwhelming for you and the participant. Instead, choose a small task that you're curious about (such as a new feature) or that isn't working so well (perhaps one known pain-point or bug).
 
 Examples:
 - Can the user add a new entry?
@@ -85,7 +85,7 @@ In a rapid usability test, you can
 
 - See what the user is used to doing without even thinking
 - Observe and clarify what sorts of cues the user is looking out for
-- Ask what the user views as the ‘correct’ process to complete a task
+- Ask what the user views as the 'correct' process to complete a task
 
 https://www.nngroup.com/courses/usability-testing/
 
@@ -95,10 +95,10 @@ https://www.nngroup.com/courses/usability-testing/
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-Back to Zarah and Ester. Zarah has discovered that Ester has had to ‘hack’ the open source scientific software in order to enter specific environmental data for the ocean-based plants Ester is researching. Zarah would like to understand if offering flexible data entry options for people like Ester would be the best feature to improve the software’s usability or if the bugs that Ester identified require other considerations. 
+Back to Zarah and Ester. Zarah has discovered that Ester has had to 'hack' the open source scientific software in order to enter specific environmental data for the ocean-based plants Ester is researching. Zarah would like to understand if offering flexible data entry options for people like Ester would be the best feature to improve the software's usability or if the bugs that Ester identified require other considerations. 
 
 **What** 
-Zarah’s tasks:
+Zarah's tasks:
 [needs completing]
 
 

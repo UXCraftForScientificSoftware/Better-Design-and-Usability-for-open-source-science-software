@@ -205,18 +205,18 @@ When time is up, find someone who shares a user, scientific topic or concern wit
 ## What user experience research methods are available to you?
 
 As of July 2022 NnGroup states that there are [up to 20 different user experience research methods](https://www.nngroup.com/articles/which-ux-research-methods/) (and likely many more!) commonly used that you can choose from. These range from well-established methods to more recent, experimental methods as well as methods that range across learning about the attitudes of users and those that learn about the behaviours of users (attitudes and behaviours can be aligned or mis-matched depending on the user and their context).
-This also includes methods that are focussed primarily on how a user directly uses and/or manipulates a software, tool or technology (both scripted and unscripted or a ‘please perform X function’ verses ‘Please use the software, tool or technology as you naturally would’) and those that center learnings outside of the direct use of the software, tool or technology such as learning about what a user does before and after using a software, tool or technology, methods are are not directly observational by the researcher (e.g. surveys and focus groups) or general user experience information that helps to inform a software, tool or technology but isn’t directly about the functions of a software, tool or technology. 
+This also includes methods that are focussed primarily on how a user directly uses and/or manipulates a software, tool or technology (both scripted and unscripted or a 'please perform X function' verses 'Please use the software, tool or technology as you naturally would') and those that center learnings outside of the direct use of the software, tool or technology such as learning about what a user does before and after using a software, tool or technology, methods are are not directly observational by the researcher (e.g. surveys and focus groups) or general user experience information that helps to inform a software, tool or technology but isn't directly about the functions of a software, tool or technology. 
 
 You can think about this in terms of what users **do** and what users **say**.
 
-Most methods can involve gathering qualitative and quantitative data. However, quantitative data when reported by users risks being approximations and inaccurate. Though it is sometimes useful to look at how many times users report they perform an action versus a ‘machine’ collected version of that data.
+Most methods can involve gathering qualitative and quantitative data. However, quantitative data when reported by users risks being approximations and inaccurate. Though it is sometimes useful to look at how many times users report they perform an action versus a 'machine' collected version of that data.
 
 
 :::::::::::::::::::::::: tab
 
 ### Interviews
 
-The researcher and the user can be in the user's own environment, either physical e.g. a lab office and digital or their device they use the software or whatever combination of these that the user defines as their ‘natural space’ or in a third space without the user’s typical ‘context’. Interviews broadly seek to ask questions or prompt the users to speak to their experiences with software, tools or technology. Sometimes they demonstrate or describe out loud to a researcher how they perform a task. 
+The researcher and the user can be in the user's own environment, either physical e.g. a lab office and digital or their device they use the software or whatever combination of these that the user defines as their 'natural space' or in a third space without the user's typical 'context'. Interviews broadly seek to ask questions or prompt the users to speak to their experiences with software, tools or technology. Sometimes they demonstrate or describe out loud to a researcher how they perform a task. 
 
 
 ### Usability testing/User testing
@@ -237,7 +237,7 @@ A group of any number of manageable users are typically led by a facilitator thr
 
 ### Participatory design
 
-A methodology that is led by the users primarily, with or without a suggested structure or goal in order to surface amongst them what is critical to their user needs and how that should be expressed and/or solved. This method attempts to be ‘hands-off’ in terms of allowing users to arrive at whatever conclusions as a group they come to.
+A methodology that is led by the users primarily, with or without a suggested structure or goal in order to surface amongst them what is critical to their user needs and how that should be expressed and/or solved. This method attempts to be 'hands-off' in terms of allowing users to arrive at whatever conclusions as a group they come to.
 
 :::::::::::::::::::::::::::::::::
 
@@ -255,7 +255,7 @@ Including books on the subject like [Universal Methods of Design](https://www.go
 
 ## Zarah speaks to another scientist in their lab
 
-In the example in the introduction, Zarah wanted to make sure she could speak to Ester in Ester’s own lab. Zarah not only wanted to ask Ester questions and see how Ester used her tools, technology and software, but also what Ester's own lab (context) looked like and functioned like. Towards the end of the user experience research Zarah was able to ask some questions about both Ester's computer setup, common tasks and practices but also why her lab was set up in the way that it was and how many other scientists shared that space with her. With this information Zarah could gather contextual data like ‘Ester works with 3 other scientists that also use my open source science software’ and ‘The lab has an area that has ocean water tanks that the computers are separate from’. These are pieces of information that can help Zarah make hypotheses and assumptions about how to optimize or better her open source science software for Zarah and her team.
+In the example in the introduction, Zarah wanted to make sure she could speak to Ester in Ester's own lab. Zarah not only wanted to ask Ester questions and see how Ester used her tools, technology and software, but also what Ester's own lab (context) looked like and functioned like. Towards the end of the user experience research Zarah was able to ask some questions about both Ester's computer setup, common tasks and practices but also why her lab was set up in the way that it was and how many other scientists shared that space with her. With this information Zarah could gather contextual data like 'Ester works with 3 other scientists that also use my open source science software' and 'The lab has an area that has ocean water tanks that the computers are separate from'. These are pieces of information that can help Zarah make hypotheses and assumptions about how to optimize or better her open source science software for Zarah and her team.
 
 :::::::::::::::::::::::::::::::::
 
@@ -306,44 +306,30 @@ A limitation might be that a usability test would require a user to have all the
 :::::::::::::::::::::::::::::::::
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 :::::::::::::::::::::::: keypoints
 
 ## Key points
 
 ### Motivation
 
-- Being able to describe and articulate your open source science software’s functionality, limitations and intentions helps you to better define a specific user experience research goal.
+- Being able to describe and articulate your open source science software's functionality, limitations and intentions helps you to better define a specific user experience research goal.
 - Themes and recurring details can help you identify what is important or meaningful in how you (and others) describe your open source science software.
 
 ### Choose and find your target user audience
 
-- Like defining your open source science software’s functions and goals, describing and defining the kinds of users and their needs, traits and expectations helps you to narrow your focus to types of users based on a needs and/or behaviour.
+- Like defining your open source science software's functions and goals, describing and defining the kinds of users and their needs, traits and expectations helps you to narrow your focus to types of users based on a needs and/or behaviour.
 - There are resources that can extend this learning for you in the form of audience and stakeholder mapping exercises that explore more prompts for you to think about users.
 - Staying away from broad generalisations of users and specifying what actions and behaviours the users have.
 
 ### Identifying risks and ethics in user experience research
 
-- Ethical considerations can be different depending on the kind of users you’re focusing on, the type of open source science project and what (if any) sensitive subjects might arise.
+- Ethical considerations can be different depending on the kind of users you're focusing on, the type of open source science project and what (if any) sensitive subjects might arise.
 - Lean towards caution and comfort and make sure to adhere to any policies that you might be beholden to as per your institutional affiliation.
 
 ### What user experience research methods are available to you?
 
 - There are a long list of methods available to those that conduct user experience research.
 - Using details from your open source science software definition, audience definitions and what goals you have to learn about can help you narrow down what methodology you want to use.
-- If In doubt, default back to a method you feel confident about and comfortable with. Getting the method process 100% right isn’t as important and practicing and gaining experience doing user experience research.
+- If In doubt, default back to a method you feel confident about and comfortable with. Getting the method process 100% right isn't as important and practicing and gaining experience doing user experience research.
 
 :::::::::::::::::::::::::::::::::
