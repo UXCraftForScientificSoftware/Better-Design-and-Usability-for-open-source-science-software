@@ -1,4 +1,3 @@
-
 ---
 title: "Choosing a research method for design"
 teaching: 180 # teaching time in minutes

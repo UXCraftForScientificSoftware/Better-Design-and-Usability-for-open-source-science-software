@@ -1,4 +1,3 @@
-
 ---
 title: "Keeping track of user data and OSS"
 teaching: 120 # teaching time in minutes

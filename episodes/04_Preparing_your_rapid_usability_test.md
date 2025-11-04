@@ -1,4 +1,3 @@
-
 ---
 title: "Preparing your rapid usability test"
 teaching: 60 # teaching time in minutes

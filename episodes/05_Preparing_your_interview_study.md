@@ -1,4 +1,3 @@
-
 ---
 title: "Preparing your interview study"
 teaching: 60 # teaching time in minutes
