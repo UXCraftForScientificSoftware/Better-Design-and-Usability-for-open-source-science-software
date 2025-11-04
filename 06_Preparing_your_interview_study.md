@@ -1,6 +1,5 @@
-
 ---
-title: "Preparing your rapid usability test"
+title: "Preparing your rapid usability test" # Episode title
 teaching: 60 # teaching time in minutes
 exercises: 20 # exercise time in minutes
 ---
@@ -72,7 +71,7 @@ You don’t need a lot of resources to do user testing. We’ll look at rapid us
 
 [Add intro paragraph]
 
-Don’t try to test every part of your software - that’s overwhelming for you and the participant. Instead, choose a small task that you’re curious about (such as a new feature) or that isn’t working so well (perhaps one known pain-point or bug).
+Don’t try to test every part of your software - that's overwhelming for you and the participant. Instead, choose a small task that you’re curious about (such as a new feature) or that isn’t working so well (perhaps one known pain-point or bug).
 
 Examples:
 - Can the user add a new entry?

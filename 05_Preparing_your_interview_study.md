@@ -1,5 +1,5 @@
 ---
-title: "Preparing your interview study"
+title: "Preparing your interview study" # Episode title
 teaching: 60 # teaching time in minutes
 exercises: 20 # exercise time in minutes
 ---
