@@ -1,4 +1,3 @@
-
 ---
 title: "Recruiting participants"
 teaching: 60 # teaching time in minutes
@@ -34,6 +33,10 @@ exercises: 20 # exercise time in minutes
 
 [https://sprblm.github.io/devs-guide-to/user-testing/recruiting-testers/](https://sprblm.github.io/devs-guide-to/user-testing/recruiting-testers/)
 
+An essential component of doing user experience research is finding, communicating with and spending time with users to understand and learn from their experiences and perspectives.
+In this episode, we cover the essential aspects of recruitment strategy, messaging, scheduling and optional long term planning.
+
+Make sure that you have reviewed and completed the section ‘Choose and find your target user audience’ in the episode ‘Choosing a research method’.
 
 
 
