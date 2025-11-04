@@ -66,13 +66,7 @@ contact: 'team@carpentries.org' # FIXME
 
 # Order of episodes in your lesson
 episodes: 
-- 01_Introduction.md
-- 02_Choosing_a_research_method.md
-- 03_Keeping_track_of_users_data_and_OSS.md
-- 04_Preparing_your_rapid_usability_test.md
-- 05_Preparing_your_interview_study.md
-- 06_Preparing_your_interview_study.md
-- 07_Recruiting_participants.md
+- 
 
 # Information for Learners
 learners: 
