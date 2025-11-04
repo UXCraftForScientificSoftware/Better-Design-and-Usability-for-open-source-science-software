@@ -1,5 +1,5 @@
 ---
-title: "Preparing your rapid usability test"
+title: "Preparing your rapid usability test" # Episode title
 teaching: 60 # teaching time in minutes
 exercises: 20 # exercise time in minutes
 ---

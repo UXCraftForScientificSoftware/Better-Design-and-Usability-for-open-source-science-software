@@ -1,5 +1,5 @@
 ---
-title: "Keeping track of user data and OSS"
+title: "Keeping track of user data and OSS" # Episode title
 teaching: 120 # teaching time in minutes
 exercises: 40 # exercise time in minutes
 ---
