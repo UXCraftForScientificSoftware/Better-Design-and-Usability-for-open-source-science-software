@@ -39,7 +39,7 @@ Because our short-term memories tend to degrade with time, it's advised to do in
 
 When working with transcriptions and notes, either digital notes or hand-written notes, even if we have impeccable speed and detail, some context and detail is likely missed or forgotten. This is why it's advisable to automate transcription using technology tools and start to interpret and synthesise data quickly or at least go back over notes and clarify any details that may be misconstrued at a later date. We also advise taking time to 'debrief' with yourself post any data collection with user participants. Steve Portigal has a useful and [adaptable debrief worksheet](https://portigal.com/wp-content/uploads/2023/07/Portigal-Consulting-Debriefing-Worksheets.pdf) that is available in his book 'Interviewing Users: How to Uncover Compelling Insights'. 
 
-![a photo of English handwritten notes from user research in a notebook](# "a photo of English handwritten notes from user research in a notebook")
+![a photo of English handwritten notes from user research in a notebook](https://raw.githubusercontent.com/UXCraftForScientificSoftware/Better-Design-and-Usability-for-open-source-science-software/refs/heads/main/episodes/user-research-notes-photo.png "a photo of English handwritten notes from user research in a notebook")
 
 *Caption: An example image of rough notes taken during a user experience research test session. There are lots of shortened words, arrows, words spread across the page , words circled and the handwriting is hard to read.*
 
